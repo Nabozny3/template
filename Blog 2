@@ -1,0 +1,34 @@
+<!DOCTYPE HTML>
+<head>
+<meta name="description" content="Basic Portfolio">
+<meta name="author" content="Jenna Nabozny">
+<meta charset="UTF-8">
+<title>Blog</title>
+<link type="text/css" rel="stylesheet" href="style.css">
+</head>
+<body>
+        <header>
+                <h1>Blog</h1>
+                <ul id="nav">
+                        <li><a href="index.html">home</a></li>
+                        <li><a href="lived.html">lived <br />experiences</a></li>
+                        <li><a href="#">cultural <br />analysis</a></li>
+                        <li><a href="#">formal <br />research</a></li>
+                        <li><a href="#">remix</a></li>
+                        <li><a href="#">course <br />retrospective</a></li>
+                        <li><a href="blog.html">blog</a></li>
+                </ul>
+        </header>
+        <main>
+                <h1>In Class Activity 2</h1>
+                <p> The group of people that were targeted in this South Park episode was both adults and children who play World of Warcraft. The social issue that I got out of this show was that communication has been deteriorating slowly, seeing as nowadays, people communicate through technology more so than face-to-face interactions. For instance, the characters in this show dedicated 7 weeks of their lives to playing a game strictly to obtain a level of high power to beat somebody else who dedicated their entire life to the game! These kids decided that doing so was more of importance to them than doing outside activities, eating well, and even going to the bathroom on their own! Such behavior made them very unhealthy and un-energized. </p>
+
+<p>Technology has its way of taking over, especially with all the advances that have been made in the past century. I remember back when I was younger, I used to be addicted to playing The Sims. I became a hermit, and spent almost every day after school playing the game for hours. Things such as this is an issue because things such as gaming tends to take over people’s lives, making them less social, less connected to their surroundings, and they begin to develop a sense of strong attachment to things that are not good to spend all of your time with.  </p>
+
+<p>I think that the creator of this video did a good job on explaining how technology can disconnect people from the outside world. It was very humorous how after the 4 kids agreed to participate in using all their time to become a very excessively powerful player, as time progressed, they ended up getting fatter and fatter. Not only that, but their skin developed a good amount of pimples, and they had no energy left within them. It showed how much artificial intelligence can affect the younger generation nowadays. It’s true that some kids these days get so wrapped up in video games, television shows, and other technologies, even cellphones, that they tend to forget that an a whole other world exists around them. Technology is a wonderful thing in the world, but sometimes, it has a way of taking over.</p>
+
+            
+        </main>
+        <footer>
+                <p>&copy; 2014 [Jenna Nabozny]</p>
+        </footer>
