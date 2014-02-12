@@ -1,4 +1,3 @@
-
 <!DOCTYPE HTML>
 <head>
 <meta name="description" content="Basic Portfolio">
@@ -35,6 +34,273 @@
 		<article>
 			<h1>Executive Summary</h1>
 			<p>A social issue the world still faces today is the controversy on gay marriage. The essay that follows this explains that being attracted to members of the same sex is something that is becoming the norm in today’s society, although some people can’t seem to get a grip on it. I will talk about the shown Modern Family, and how a gay couple, Cameron and Mitchell, live a happy and normally functioning life, although they are not straight. In the end, I intend to show that love is love, regardless of whom it is between, and that this couple is a perfect example. Omitting the laws preventing it can solve such controversies on gay rights, as well as showing society that love is love, regardless of who the love is between. We as a society can overcome this social issue. </p>
+		</article>
+		<footer>
+		<p>&copy; 2014 [Jenna Nabozny]</p>
+		</footer>
+	</content>
+</body>	
+
+<!DOCTYPE HTML>
+<head>
+<meta name="description" content="Basic Portfolio">
+<meta name="author" content="name goes here">
+<meta charset="UTF-8">
+<link type="text/css" rel="stylesheet" href="style.css">
+<title>my portfolio</title>
+</head>
+<body>
+	<content>
+		<header>
+		<h1>my portfolio</h1>
+		<ul id="nav">
+			<li><a href="index.html">home</a></li>
+			<li><a href="lived.html">lived <br />experiences</a></li>
+			<li><a href="cultural.html">cultural <br />analysis</a></li>
+			<li><a href="#">formal <br />research</a></li>
+			<li><a href="#">remix</a></li>
+			<li><a href="#">course <br />retrospective</a></li>
+			<li><a href="#">blog</a></li>
+		</ul>
+		</header>
+		<div id="menu">
+			<ul>
+				<li><a href="cultural.html">Executive Summary</a></li>
+				<li><a href="cultural2.html">Introduction</a></li>
+				<li><a href="cultural3.html">Analysis of Artifact</a></li>
+				<li><a href="cultural4.html">Description of Issue</a></li>
+				<li><a href="cultural5.html">Proposed Solution</a></li>
+				<li><a href="cultural6.html">Anticipated Effects</a></li>
+				<li><a href="cultural7.html">Conclusion</a></li>
+			</ul>
+		</div>
+		<article>
+			<h1>Introduction</h1>
+			<p>Introduction goes here</p>
+		</article>
+		<footer>
+		<p>&copy; 2014 [Jenna Nabozny]</p>
+		</footer>
+	</content>
+</body>	
+
+<!DOCTYPE HTML>
+<head>
+<meta name="description" content="Basic Portfolio">
+<meta name="author" content="name goes here">
+<meta charset="UTF-8">
+<link type="text/css" rel="stylesheet" href="style.css">
+<title>my portfolio</title>
+</head>
+<body>
+	<content>
+		<header>
+		<h1>my portfolio</h1>
+		<ul id="nav">
+			<li><a href="index.html">home</a></li>
+			<li><a href="lived.html">lived <br />experiences</a></li>
+			<li><a href="cultural.html">cultural <br />analysis</a></li>
+			<li><a href="#">formal <br />research</a></li>
+			<li><a href="#">remix</a></li>
+			<li><a href="#">course <br />retrospective</a></li>
+			<li><a href="#">blog</a></li>
+		</ul>
+		</header>
+		<div id="menu">
+			<ul>
+				<li><a href="cultural.html">Executive Summary</a></li>
+				<li><a href="cultural2.html">Introduction</a></li>
+				<li><a href="cultural3.html">Analysis of Artifact</a></li>
+				<li><a href="cultural4.html">Description of Issue</a></li>
+				<li><a href="cultural5.html">Proposed Solution</a></li>
+				<li><a href="cultural6.html">Anticipated Effects</a></li>
+				<li><a href="cultural7.html">Conclusion</a></li>
+			</ul>
+		</div>
+		<article>
+			<h1>Analysis of Artifact</h1>
+			<p>Analysis of Artifact goes here</p>
+		</article>
+		<footer>
+		<p>&copy; 2014 [Jenna Nabozny]</p>
+		</footer>
+	</content>
+</body>	
+
+
+
+
+<!DOCTYPE HTML>
+<head>
+<meta name="description" content="Basic Portfolio">
+<meta name="author" content="name goes here">
+<meta charset="UTF-8">
+<link type="text/css" rel="stylesheet" href="style.css">
+<title>my portfolio</title>
+</head>
+<body>
+	<content>
+		<header>
+		<h1>my portfolio</h1>
+		<ul id="nav">
+			<li><a href="index.html">home</a></li>
+			<li><a href="lived.html">lived <br />experiences</a></li>
+			<li><a href="cultural.html">cultural <br />analysis</a></li>
+			<li><a href="#">formal <br />research</a></li>
+			<li><a href="#">remix</a></li>
+			<li><a href="#">course <br />retrospective</a></li>
+			<li><a href="#">blog</a></li>
+		</ul>
+		</header>
+		<div id="menu">
+			<ul>
+				<li><a href="cultural.html">Executive Summary</a></li>
+				<li><a href="cultural2.html">Introduction</a></li>
+				<li><a href="cultural3.html">Analysis of Artifact</a></li>
+				<li><a href="cultural4.html">Description of Issue</a></li>
+				<li><a href="cultural5.html">Proposed Solution</a></li>
+				<li><a href="cultural6.html">Anticipated Effects</a></li>
+				<li><a href="cultural7.html">Conclusion</a></li>
+			</ul>
+		</div>
+		<article>
+			<h1>Description of Issue</h1>
+			<p>Description of Issue goes here</p>
+		</article>
+		<footer>
+		<p>&copy; 2013 [Name goes here]</p>
+		</footer>
+	</content>
+	
+	
+	
+	
+	
+	<!DOCTYPE HTML>
+<head>
+<meta name="description" content="Basic Portfolio">
+<meta name="author" content="name goes here">
+<meta charset="UTF-8">
+<link type="text/css" rel="stylesheet" href="style.css">
+<title>my portfolio</title>
+</head>
+<body>
+	<content>
+		<header>
+		<h1>my portfolio</h1>
+		<ul id="nav">
+			<li><a href="index.html">home</a></li>
+			<li><a href="lived.html">lived <br />experiences</a></li>
+			<li><a href="cultural.html">cultural <br />analysis</a></li>
+			<li><a href="#">formal <br />research</a></li>
+			<li><a href="#">remix</a></li>
+			<li><a href="#">course <br />retrospective</a></li>
+			<li><a href="#">blog</a></li>
+		</ul>
+		</header>
+		<div id="menu">
+			<ul>
+				<li><a href="cultural.html">Executive Summary</a></li>
+				<li><a href="cultural2.html">Introduction</a></li>
+				<li><a href="cultural3.html">Analysis of Artifact</a></li>
+				<li><a href="cultural4.html">Description of Issue</a></li>
+				<li><a href="cultural5.html">Proposed Solution</a></li>
+				<li><a href="cultural6.html">Anticipated Effects</a></li>
+				<li><a href="cultural7.html">Conclusion</a></li>
+			</ul>
+		</div>
+		<article>
+			<h1>Proposed Solution</h1>
+			<p>Proposed Solution goes here</p>
+		</article>
+		<footer>
+		<p>&copy; 2014 [Jenna Nabozny]</p>
+		</footer>
+	</content>
+</body>	
+
+
+<!DOCTYPE HTML>
+<head>
+<meta name="description" content="Basic Portfolio">
+<meta name="author" content="name goes here">
+<meta charset="UTF-8">
+<link type="text/css" rel="stylesheet" href="style.css">
+<title>my portfolio</title>
+</head>
+<body>
+	<content>
+		<header>
+		<h1>my portfolio</h1>
+		<ul id="nav">
+			<li><a href="index.html">home</a></li>
+			<li><a href="lived.html">lived <br />experiences</a></li>
+			<li><a href="cultural.html">cultural <br />analysis</a></li>
+			<li><a href="#">formal <br />research</a></li>
+			<li><a href="#">remix</a></li>
+			<li><a href="#">course <br />retrospective</a></li>
+			<li><a href="#">blog</a></li>
+		</ul>
+		</header>
+		<div id="menu">
+			<ul>
+				<li><a href="cultural.html">Executive Summary</a></li>
+				<li><a href="cultural2.html">Introduction</a></li>
+				<li><a href="cultural3.html">Analysis of Artifact</a></li>
+				<li><a href="cultural4.html">Description of Issue</a></li>
+				<li><a href="cultural5.html">Proposed Solution</a></li>
+				<li><a href="cultural6.html">Anticipated Effects</a></li>
+				<li><a href="cultural7.html">Conclusion</a></li>
+			</ul>
+		</div>
+		<article>
+			<h1>Anticipated Effects</h1>
+			<p>Anticipated Effects go here</p>
+		</article>
+		<footer>
+		<p>&copy; 2014 [Jenna Nabozny]</p>
+		</footer>
+	</content>
+</body>	
+
+
+
+<!DOCTYPE HTML>
+<head>
+<meta name="description" content="Basic Portfolio">
+<meta name="author" content="name goes here">
+<meta charset="UTF-8">
+<link type="text/css" rel="stylesheet" href="style.css">
+<title>my portfolio</title>
+</head>
+<body>
+	<content>
+		<header>
+		<h1>my portfolio</h1>
+		<ul id="nav">
+			<li><a href="index.html">home</a></li>
+			<li><a href="lived.html">lived <br />experiences</a></li>
+			<li><a href="cultural.html">cultural <br />analysis</a></li>
+			<li><a href="#">formal <br />research</a></li>
+			<li><a href="#">remix</a></li>
+			<li><a href="#">course <br />retrospective</a></li>
+			<li><a href="#">blog</a></li>
+		</ul>
+		</header>
+		<div id="menu">
+			<ul>
+				<li><a href="cultural.html">Executive Summary</a></li>
+				<li><a href="cultural2.html">Introduction</a></li>
+				<li><a href="cultural3.html">Analysis of Artifact</a></li>
+				<li><a href="cultural4.html">Description of Issue</a></li>
+				<li><a href="cultural5.html">Proposed Solution</a></li>
+				<li><a href="cultural6.html">Anticipated Effects</a></li>
+				<li><a href="cultural7.html">Conclusion</a></li>
+			</ul>
+		</div>
+		<article>
+			<h1>Conclusion</h1>
+			<p>Conclusion goes here</p>
 		</article>
 		<footer>
 		<p>&copy; 2014 [Jenna Nabozny]</p>
