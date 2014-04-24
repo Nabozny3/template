@@ -20,9 +20,131 @@
 	
 	}
 
+
+
+
+
+
+
+
 header, main h1 {
-	color:blue;
+	color:#3399CC;
+	{block:ifBlogTitleRedBlueBubbleEffect}
+<script type="text/javascript">
+// <![CDATA[
+var bgcolour="#ff0000"; // background colour
+var fgcolour="#2100ff"; // foreground colour
+var speed=5; // speed of bubbling, lower is faster
+var shades=15; // number of shades of bubble
+var bubbcol=new Array();
+var bubbler, bubbtxt;
+var bubbchr=new Array();
+window.onload=function() { if (document.getElementById) {
+for (bubbler=0; bubbler<=shades; bubbler++) {
+bubbtxt="#";
+for (var i=1; i<6; i+=2) {
+var bg=parseInt(bgcolour.substring(i,i+2),16);
+bubbtxt+=dechex(Math.floor(bg+(parseInt(fgcolour.substring(i,i+2),16)-bg)*(bubbler/shades)));
 }
+bubbcol[bubbler+1]=bubbtxt;
+}
+bubbler=document.getElementById("bubble");
+bubbtxt=bubbler.firstChild.nodeValue;
+while (bubbler.childNodes.length) bubbler.removeChild(bubbler.childNodes[0]);
+for (var i=0; i<bubbtxt.length; i++) {
+var bubbi=document.createElement("span");
+bubbi.setAttribute("id", "bubb"+i);
+bubbi.appendChild(document.createTextNode(bubbtxt.charAt(i)));
+bubbler.appendChild(bubbi);
+}
+bubbler=setInterval ("bubbling()", speed);
+}}
+
+function dechex(dec) {
+var hex=dec.toString(16);
+if (dec<16) return "0"+hex;
+else return hex;
+}
+
+function bubbling() {
+for (var i=0; i<bubbtxt.length; i++) {
+var bubbme=document.getElementById("bubb"+i);
+if (bubbchr[i]) {
+bubbme.style.color=bubbcol[bubbchr[i]];
+bubbchr[i]=(bubbchr[i]+1)%bubbcol.length;
+}
+else if (Math.random()<0.75/bubbchr.length) bubbchr[i]=1;
+}
+}
+// ]]>
+</script>
+{/block:ifBlogTitleRedBlueBubbleEffect}
+
+{block:ifBlogTitleDarkBubbleEffect}
+<script type="text/javascript">
+// <![CDATA[
+var bgcolour="#000000"; // background colour
+var fgcolour="#a8a7a7"; // foreground colour
+var speed=100; // speed of bubbling, lower is faster
+var shades=10; // number of shades of bubble
+var bubbcol=new Array();
+var bubbler, bubbtxt;
+var bubbchr=new Array();
+window.onload=function() { if (document.getElementById) {
+for (bubbler=0; bubbler<=shades; bubbler++) {
+bubbtxt="#";
+for (var i=1; i<6; i+=2) {
+var bg=parseInt(bgcolour.substring(i,i+2),16);
+bubbtxt+=dechex(Math.floor(bg+(parseInt(fgcolour.substring(i,i+2),16)-bg)*(bubbler/shades)));
+}
+bubbcol[bubbler+1]=bubbtxt;
+}
+bubbler=document.getElementById("bubble");
+bubbtxt=bubbler.firstChild.nodeValue;
+while (bubbler.childNodes.length) bubbler.removeChild(bubbler.childNodes[0]);
+for (var i=0; i<bubbtxt.length; i++) {
+var bubbi=document.createElement("span");
+bubbi.setAttribute("id", "bubb"+i);
+bubbi.appendChild(document.createTextNode(bubbtxt.charAt(i)));
+bubbler.appendChild(bubbi);
+}
+bubbler=setInterval ("bubbling()", speed);
+}}
+
+function dechex(dec) {
+var hex=dec.toString(16);
+if (dec<16) return "0"+hex;
+else return hex;
+}
+
+function bubbling() {
+for (var i=0; i<bubbtxt.length; i++) {
+var bubbme=document.getElementById("bubb"+i);
+if (bubbchr[i]) {
+bubbme.style.color=bubbcol[bubbchr[i]];
+bubbchr[i]=(bubbchr[i]+1)%bubbcol.length;
+}
+else if (Math.random()<0.75/bubbchr.length) bubbchr[i]=1;
+}
+}
+// ]]>
+</script>
+{/block:ifBlogTitleDarkBubbleEffect}
+
+</head>
+}
+
+
+
+
+
+
+
+
+
+
+
+
 
 a, a:visited {
 	color:#330066;
