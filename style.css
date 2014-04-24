@@ -2,7 +2,7 @@
     text-align: ;
     background: url("http://www.cellphone-wallpapers.net/Wallpapers/User/11483-5511.jpg");;
     color: white;
-    font-family: trebuchet ms;
+    font-family: monaco;
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
@@ -30,7 +30,7 @@ color:#3399CC;
 
 a, a:visited {
 color:#330066;
-text-decoration:none;
+text-decoration:bold;
 }
 
 
@@ -40,7 +40,7 @@ text-decoration:none;
 
 a:hover {
 color: #77ccee;
-text-decoration: bold;
+text-decoration: none;
 }
 
 
