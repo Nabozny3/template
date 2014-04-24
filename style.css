@@ -20,21 +20,13 @@ margin-left:0;
 width:960px;
 color:003399;
 
--webkit-animation-name: slideDown;
--webkit-animation-iteration-count: once;
--webkit-animation-fill-mode: forwards;
--webkit-animation-duration: 2s;   
--webkit-animation-delay: 3s;
--moz-animation-name: slideDown;
--moz-animation-iteration-count: once;
--moz-animation-fill-mode: forwards;
--moz-animation-duration: 2s;   
--moz-animation-delay: 3s;
-animation-name: slideDown;
-animation-iteration-count: once;
-animation-fill-mode: forwards;
-animation-duration: 2s;
-animation-delay: 3s;
+#access li:hover    {
+-webkit-animation:none;
+-moz-animation:none;
+-o-animation:none;
+-ms-animation:none;
+animation:none;
+}
 
 
 }
