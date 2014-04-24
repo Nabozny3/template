@@ -46,6 +46,9 @@ color: #77ccee;
 text-decoration: bold;
 }
 
+
+}
+
 @keyframes rubberBand {
   0% {
     -webkit-transform: scale(1);
@@ -83,10 +86,6 @@ text-decoration: bold;
   animation-name: rubberBand;
 }
 }
-}
-
-
-
 
 
 #nav {
