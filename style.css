@@ -2,7 +2,7 @@
     text-align: ;
     background: url("http://www.cellphone-wallpapers.net/Wallpapers/User/11483-5511.jpg");;
     color: white;
-    font-family: Comic Sans Ms;
+    font-family: Amatic SC;
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
@@ -34,19 +34,10 @@ a, a:visited {
 
 
 
-
-div#header:hover{
-background-color:{color:header};
-opacity:0.6;
--moz-transition: all .2s ease-in-out; 
--o-transition: all .2s ease-in-out; 
-transition: all .2s ease-in-out; 
--webkit-transition: all .2s ease-in-out;
--webkit-transition-duration: .7s;
--webkit-transition-duration: .7s;
--webkit-transition-duration: .7s;}
-
-
+a:hover {
+	color: #77ccee;
+	text-decoration: none;
+}
 
 
 
