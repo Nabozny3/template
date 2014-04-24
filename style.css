@@ -17,6 +17,7 @@ header, main, footer {
 clear:both;
 margin-left:0;
 width:960px;
+color:black;
 }
 
 
@@ -90,7 +91,7 @@ article {
 width:800px;
 display: block;
 float:right;
-color:black;
+
 }
 <!DOCTYPE HTML>
 
