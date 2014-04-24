@@ -29,10 +29,28 @@ a, a:visited {
 	text-decoration:none;
 }
 
-a:hover {
-	color: #77ccee;
-	text-decoration: none;
-}
+
+
+
+
+
+
+div#header:hover{
+background-color:{color:header};
+opacity:0.6;
+-moz-transition: all .2s ease-in-out; 
+-o-transition: all .2s ease-in-out; 
+transition: all .2s ease-in-out; 
+-webkit-transition: all .2s ease-in-out;
+-webkit-transition-duration: .7s;
+-webkit-transition-duration: .7s;
+-webkit-transition-duration: .7s;}
+
+
+
+
+
+
 
 #nav {
 	list-style: none;
