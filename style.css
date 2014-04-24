@@ -11,18 +11,7 @@ color:#3399CC;
 width:960px;
 margin:auto;
 
-
-
-{block:ifshowblogtitle}
-<center>
-<a href="/">
-<div id="blogtitle">
-<span id="bubble">{title}</a></span></div></center>
-{/block:ifshowblogtitle}
-
-{block:ifShowbannerImage}<a href="/"><img style="max-width:400px; margin-bottom:5px;border:0px;" src="{image:Banner}" border=0 ></a><br>{/block:IfbannerImage}{/block:ifShowbannerimage}
 }
-
 
 header, main, footer {
 clear:both;
@@ -35,6 +24,25 @@ width:960px;
 
 header, main h1 {
 color:#3399CC;
+var red = [0, 100, 63];
+var orange = [40, 100, 60];
+var green = [75, 100, 40];
+var blue = [196, 77, 55];
+var purple = [280, 50, 60];
+
+var myName = "My Portfolio";
+letterColors = [blue, green, purple]
+if(10 < 3) {
+    bubbleShape = "square";
+}
+
+else {
+    bubbleShape = "circle";
+}
+
+
+drawName(myName, letterColors);
+bounceBubbles()
 
 }
 
