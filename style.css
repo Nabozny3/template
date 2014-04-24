@@ -1,9 +1,13 @@
-body {
+ body {
+    text-align: center;
+    background: url("http://i57.tinypic.com/s5wnc5.jpg");;
+    color: white;
+    font-family: Helvetica;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 	color:#fff;
-	background-image:url("http://i57.tinypic.com/s5wnc5.jpg");
-	background-image:fixed;
-	background-image:fit;
-	font-family: Helvetica;
 	width:960px;
 	margin:auto;
 }
