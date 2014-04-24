@@ -10,6 +10,17 @@
 color:#3399CC;
 width:960px;
 margin:auto;
+
+
+
+{block:ifshowblogtitle}
+<center>
+<a href="/">
+<div id="blogtitle">
+<span id="bubble">{title}</a></span></div></center>
+{/block:ifshowblogtitle}
+
+{block:ifShowbannerImage}<a href="/"><img style="max-width:400px; margin-bottom:5px;border:0px;" src="{image:Banner}" border=0 ></a><br>{/block:IfbannerImage}{/block:ifShowbannerimage}
 }
 
 
